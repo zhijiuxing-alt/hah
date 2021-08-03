@@ -1,0 +1,8 @@
+site_name: My Docs
+
+repo_url: 'https://github.com/zhijiuxing-alt/hah.git'
+repo_name: 'OceanBase'
+edit_uri: 'master/docs/'
+
+theme:
+  name: 'material'
